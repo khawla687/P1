@@ -2,7 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello, this is a test project!");
-        System.out.println("Hello, this is first pull!");
+        System.out.println("Hello, this is first push!");
+
     }
 
 }
